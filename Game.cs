@@ -6,7 +6,7 @@ using Trivia;
 
 /// <summary>
 /// Modified By: Adriana C. Arzola
-/// HW 6 - Refactoring
+/// SWEN 5235 - HW 6 Refactoring
 /// </summary>
 namespace UglyTrivia
 {
